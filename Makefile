@@ -54,4 +54,5 @@ $(PRODUCTS):
 	cp -f $(TEMPLATE_DIR)/$(@).config $(CONFIG)
 	@echo "CONFIG_CROSS_COMPILER_ROOT=$(TOOLCHAIN_ROOT)" >> $(CONFIG)
 	@echo "CONFIG_CCACHE=y" >> $(CONFIG)
+	@sh $(SOURCE_DIR)/configure
 	@make build

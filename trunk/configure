@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ROOTDIR=`pwd`
+ROOTDIR=`dirname "$0"`
 export ROOTDIR=$ROOTDIR
 
 kernel_id="4.4.x"

@@ -51,7 +51,7 @@
 /*#define CONFIG_RAETH_QDMATX_QDMARX*/
 /*#define CONFIG_HW_SFQ*/
 #define CONFIG_RAETH_HW_IOCOHERENT
-#define	CONFIG_RAETH_GMAC2
+/*#define	CONFIG_RAETH_GMAC2*/
 /*#define CONFIG_RAETH_RSS_4RING*/
 /*#define CONFIG_RAETH_RSS_2RING*/
 /* definitions */
