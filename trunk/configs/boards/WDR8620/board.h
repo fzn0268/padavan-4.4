@@ -1,8 +1,8 @@
 /* TL-WDR8620 */
 
-#define BOARD_PID	"TL-WDR8620"
-#define BOARD_NAME	"TL-WDR8620"
-#define BOARD_DESC	"TL-WDR8620 Wireless Router"
+#define BOARD_PID	"WDR8620"
+#define BOARD_NAME	"WDR8620"
+#define BOARD_DESC	"WDR8620 Wireless Router"
 #define BOARD_VENDOR_NAME	"TP-LINK"
 #define BOARD_VENDOR_URL	"https://www.tp-link.com.cn/"
 #define BOARD_MODEL_URL	"https://www.tp-link.com.cn/"

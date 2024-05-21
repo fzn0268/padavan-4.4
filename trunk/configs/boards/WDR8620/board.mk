@@ -1,9 +1,9 @@
 ##################################################################
-# Board PID  # Board Name       # PRODUCT # Note
+# Board PID # Board Name       # PRODUCT # Note
 ##################################################################
-# TL-WDR8620 # TL-WDR620        # MT7621  #
+#  WDR8620  # WDR8620          # MT7621  #
 ##################################################################
 
-CFLAGS += -DBOARD_TL_WDR8620
+CFLAGS += -DBOARD_WDR8620
 BOARD_NUM_USB_PORTS=1
 CONFIG_BOARD_RAM_SIZE=128
