@@ -1,6 +1,6 @@
 TOPDIR:=${CURDIR}
 SOURCE_DIR:=$(TOPDIR)/trunk
-TOOLCHAIN_DIR:=$(TOPDIR)/toolchain-mipsel
+TOOLCHAIN_DIR:=$(TOPDIR)/toolchain-mipsel-1.26.0
 TOOLCHAIN_ROOT:=$(TOOLCHAIN_DIR)/toolchain-4.4.x
 TOOLCHAIN_URL:=https://github.com/hanwckf/padavan-toolchain/releases/download/linux-4.4-v1.0/mipsel-linux-uclibc.tar.xz
 TEMPLATE_DIR:=$(SOURCE_DIR)/configs/templates
